@@ -1,0 +1,17 @@
+{
+	"name": "Felipe",
+	"description": "Projeto PHP OO",
+	"authors": [
+		{
+			"name": "Felipe",
+			"email": "felipe.eufrasio@outlook.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Sts\\":"app/sts",
+			"Core\\": "core"
+		}
+	}
+}
